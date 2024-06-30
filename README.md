@@ -1,5 +1,5 @@
-## hello to my test repo !
+# hello to my test repo !
 
-# author netanel
+author netanel
 
 new changes made
